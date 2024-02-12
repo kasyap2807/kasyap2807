@@ -6,7 +6,7 @@
 
 
 ## Skills
-### ![Core Java](https://img.shields.io/badge/-Core Java-blue) ![SpringBoot](https://img.shields.io/badge/SpringBoot-blue) 
+### ![Core Java](https://img.shields.io/badge/JAVA-blue) ![SpringBoot](https://img.shields.io/badge/SpringBoot-blue) 
 
 
 <!---
