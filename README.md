@@ -1,7 +1,19 @@
+# About Me
 - 👋 Hi, I’m @krishna kasyap
 - 👀 I’m interested in Artificial intelligence, working on new software
 - 🌱 I’m currently learning Java programming 
-- 💞️ I’m looking to collaborate on new projects which will increases my skills
+- 💞️ I’m looking to collaborate on new projects which will increase my skills
+
+
+## Skills
+- Core Java
+- Spring Boot
+- ![Static Badge](https://img.shields.io/badge/python)
+
+- React Js
+- Node Js
+- MySql
+- Mongo db
   
 
 <!---
