@@ -6,7 +6,7 @@
 
 
 ## Skills
-### ![Core Java](https://img.shields.io/badge/JAVA-blue) ![SpringBoot](https://img.shields.io/badge/SpringBoot-blue)  ![Python](https://img.shields.io/badge/Python-blue) ![NodeJS](https://img.shields.io/badge/NodeJd-red) ![ReactJs](https://img.shields.io/badge/ReactJs-red) ![Mysql](https://img.shields.io/badge/Mysql-vilot) ![Mongodb](https://img.shields.io/badge/MongoDb-vilot)
+### ![Core Java](https://img.shields.io/badge/JAVA-blue) ![Python](https://img.shields.io/badge/Python-blue) ![SpringBoot](https://img.shields.io/badge/SpringBoot-red)  ![NodeJS](https://img.shields.io/badge/NodeJd-red) ![ReactJs](https://img.shields.io/badge/ReactJs-red) ![Mysql](https://img.shields.io/badge/Mysql-vilot) ![Mongodb](https://img.shields.io/badge/MongoDb-vilot)
 
 
 <!---
