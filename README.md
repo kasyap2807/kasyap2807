@@ -6,16 +6,8 @@
 
 
 ## Skills
-- Core Java
-- Spring Boot
-- ![Python](https://img.shields.io/badge/-Python-blue)
+### ![Core Java](https://img.shields.io/badge/-Core Java-blue) ![SpringBoot](https://img.shields.io/badge/SpringBoot-blue) 
 
-
-- React Js
-- Node Js
-- MySql
-- Mongo db
-  
 
 <!---
 kasyap2807/kasyap2807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
