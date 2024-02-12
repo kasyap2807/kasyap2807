@@ -6,7 +6,8 @@
 
 
 ## Contack Me
-### [LinkedIn](www.linkedin.com/in/krishnakasyap)
+### LinkedIn : www.linkedin.com/in/krishnakasyap
+### Gemail : kanuparthikasyap95@gmail.com
 
 ### Languages
 
