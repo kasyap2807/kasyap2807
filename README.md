@@ -8,6 +8,8 @@
 ## Skills
 ### ![Core Java](https://img.shields.io/badge/JAVA-blue) ![Python](https://img.shields.io/badge/Python-blue) ![SpringBoot](https://img.shields.io/badge/SpringBoot-red)  ![NodeJS](https://img.shields.io/badge/NodeJd-red) ![ReactJs](https://img.shields.io/badge/ReactJs-red) ![Mysql](https://img.shields.io/badge/Mysql-vilot) ![Mongodb](https://img.shields.io/badge/MongoDb-vilot)
 
+## Contack Me
+### ![Static Badge](https://img.shields.io/badge/:badgeContent?logo=Linkedin&link=www.linkedin.com%2Fin%2Fkrishnakasyap)
 
 <!---
 kasyap2807/kasyap2807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
