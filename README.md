@@ -8,7 +8,8 @@
 ## Skills
 - Core Java
 - Spring Boot
-- ![Static Badge](https://img.shields.io/badge/python)
+- ![Python](https://img.shields.io/badge/-Python-blue)
+
 
 - React Js
 - Node Js
