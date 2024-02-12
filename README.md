@@ -1,4 +1,12 @@
-![](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
+# About Me
+- 👋 Hi, I’m @krishna kasyap
+- 👀 I’m interested in Artificial intelligence, working on new software
+- 🌱 I’m currently learning Java programming 
+- 💞️ I’m looking to collaborate on new projects which will increase my skills
+
+
+## Contack Me
+### !![krishnakasyap](https://img.shields.io/badge/-Python-000?&logo=Linkdin)
 
 ### Languages
 
