@@ -6,7 +6,7 @@
 
 
 ## Contack Me
-### !![krishnakasyap](https://img.shields.io/badge/-Python-000?&logo=Linkdin)
+### !![krishnakasyap](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)
 
 ### Languages
 
