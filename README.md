@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on new projects which will increase my skills
 
 
-## Contack Me
+## Contact Me
 ### ![LinkedIn](https://img.shields.io/badge/-linkedIn-000?&logo=LinkedIn) : www.linkedin.com/in/krishnakasyap
 ### ![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail) : kanuparthikasyap95@gmail.com
 
