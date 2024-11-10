@@ -25,7 +25,11 @@
 ![SpringBoot](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
-### Full Stack Projects
+### Full Stack WEB DEV
+Java Full Stack (SpringBoot + Angular/React + MYSQL)
+Python Full Stack(Flask + Angular/React + MYSQL)
+MERN Stack( MongoDb/MYSQL + Express-JS + React + Nodejs)
+MEAN Stack( MongoDb/MYSQL + Express-JS + Angular + Nodejs)
 
 
 
